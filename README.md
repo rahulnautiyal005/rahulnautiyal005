@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Nautiyal</h1>
-<h3 align="center">B.Tech 3rd Year | Aspiring Software Engineer | MERN Stack Dev | CPER'S</h3>
+<h3 align="center">B.Tech 3rd Year | Aspiring Software Engineer | MERN Stack Dev | CPER'S </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -18,7 +18,7 @@
   Web Dev, Node.js, Express.js, MongoDB, DSA, Competitive Programming
 
 - 📫 How to reach me:  
-  **Email:** rahulnautiyal.work@gmail.com  
+  **Email:** rahulnautiyal005@gmail.com  
   **LinkedIn:** [rahul-nautiyal-b749b62a5](https://www.linkedin.com/in/rahul-nautiyal-b749b62a5)  
   **GitHub:** [@rahulnautiyal005](https://github.com/rahulnautiyal005)
 
@@ -28,7 +28,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -57,6 +61,4 @@
 ---
 
 ### 📍 Currently From: Dehradun, Uttarakhand  
-
-
 
