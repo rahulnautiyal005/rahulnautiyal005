@@ -20,7 +20,6 @@
 - 📫 How to reach me:  
   **Email:** rahulnautiyal.work@gmail.com  
   **LinkedIn:** [rahul-nautiyal-b749b62a5](https://www.linkedin.com/in/rahul-nautiyal-b749b62a5)  
-  **GitHub:** [@rahulnautiyal005](https://github.com/rahulnautiyal005)
 
 ---
 
