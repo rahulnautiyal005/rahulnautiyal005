@@ -18,7 +18,7 @@
   Web Dev, Node.js, Express.js, MongoDB, DSA, Competitive Programming
 
 - 📫 How to reach me:  
-  **Email:** rahulnautiyal005@gmail.com  
+  **Email:** rahulnautiyal.work@gmail.com  
   **LinkedIn:** [rahul-nautiyal-b749b62a5](https://www.linkedin.com/in/rahul-nautiyal-b749b62a5)  
   **GitHub:** [@rahulnautiyal005](https://github.com/rahulnautiyal005)
 
