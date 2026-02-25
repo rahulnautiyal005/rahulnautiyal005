@@ -4,8 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on:  
-  - 🔹 **Medicos** (Healthcare Booking Platform)  
-  - 🔹 **Inventory Management App** (Node.js + MongoDB)  
+  - 🔹 **RAG-Based ChatBot** (LangGraph, FastAPI, ChromaDB, HuggingFace, Vector Search)  
   - 🔹 **Resume Enhancer** using DAA string matching algorithms
 
 - 🌱 I’m currently learning:
@@ -14,8 +13,6 @@
 
 
 
-- 💬 Ask me about:  
-  Web Dev, Node.js, Express.js, MongoDB, DSA, Competitive Programming
 
 - 📫 How to reach me:  
   **Email:** rahulnautiyal.work@gmail.com  
