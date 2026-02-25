@@ -7,9 +7,11 @@
   - 🔹 **RAG-Based ChatBot** (LangGraph, FastAPI, ChromaDB, HuggingFace, Vector Search)  
   - 🔹 **Resume Enhancer** using DAA string matching algorithms
 
-- 🌱 I’m currently learning:
-  - System Design | DBMS | CN | OS
-  - TypeScript | React Native | Advanced DSA
+🌱 Currently Exploring & Building With:
+- 🔹 LLM Engineering | Advanced RAG Systems | AI Agents (LangGraph / LangChain)
+- 🔹 Distributed Systems | Backend Scalability | System Design at Scale
+- 🔹 Vector Databases | Embedding Optimization | Retrieval Systems
+- 🔹 TypeScript | React Native | Performance-Oriented DS
 
 
 
